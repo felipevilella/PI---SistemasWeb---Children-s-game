@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "C:/Users/lenovo/Desktop/Sistemas da Informa\xE7\xE3o/PI Jogos/Sprint0/Assets/cubo.unity"
+  isLoaded: 1
+  isActive: 1
