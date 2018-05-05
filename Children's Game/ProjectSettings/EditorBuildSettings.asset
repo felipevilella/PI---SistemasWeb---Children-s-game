@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cenas/menu_fases.unity
+    guid: 59c09c4fdf751c445a6142de427b4997
+  - enabled: 1
+    path: Assets/Cenas/cubo.unity
+    guid: ac7d51a32f2f32c4fb415e49f0c4e7f9
