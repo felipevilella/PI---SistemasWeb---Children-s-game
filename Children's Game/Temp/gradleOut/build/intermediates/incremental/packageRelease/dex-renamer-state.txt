@@ -1,4 +1,0 @@
-#Mon May 07 10:00:48 BRT 2018
-base.0=C\:\\Users\\lenovo\\Documents\\GitHub\\PI---SistemasWeb---Children-s-game\\Children's Game\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=C\:\\Users\\lenovo\\Documents\\GitHub\\PI---SistemasWeb---Children-s-game\\Children's Game\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
