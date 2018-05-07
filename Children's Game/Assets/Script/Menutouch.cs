@@ -7,7 +7,7 @@ public class Menutouch : MonoBehaviour {
 
     void Start()
     {
-        speed = 0.01f;
+        speed = 0.20f;
     }
 
     void Update()
