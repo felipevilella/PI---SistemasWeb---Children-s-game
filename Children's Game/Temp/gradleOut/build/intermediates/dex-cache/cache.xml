@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\Documents\GitHub\PI---SistemasWeb---Children-s-game\Children&apos;s Game\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="C:\Users\lenovo\Documents\GitHub\PI---SistemasWeb---Children-s-game\Children&apos;s Game\Temp\gradleOut\build\intermediates\pre-dexed\release\unity-classes_7b20dcd65f8a5ccda53aced7e518b5ad972004a4.jar" />
+    </item>
+
+</items>
