@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Cenas/menu_fases.unity
+- path: Assets/Cenas/tela_inicial.unity
   isLoaded: 1
   isActive: 1
