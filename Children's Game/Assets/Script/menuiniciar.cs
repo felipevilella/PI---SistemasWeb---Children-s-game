@@ -14,10 +14,6 @@ public class menuiniciar : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         
-            if ((Input.touchCount == 1) && (Input.GetTouch(0).phase == TouchPhase.Began))
-            {
-                SceneManager.LoadScene("nome_meu");
-            }
-        
+          
     }
 }

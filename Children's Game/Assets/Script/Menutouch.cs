@@ -12,7 +12,7 @@ public class Menutouch : MonoBehaviour {
 
     void Update()
     {
-
+        
         if (Input.touchCount == 1)
         {
 

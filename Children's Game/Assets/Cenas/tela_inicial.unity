@@ -677,7 +677,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1958875470}
+      - m_Target: {fileID: 1258965481}
         m_MethodName: Bt_star
         m_Mode: 1
         m_Arguments:
@@ -731,7 +731,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1258965476}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 620dc36a245d7cc4ea4c474d6e87910a, type: 3}
+  m_Script: {fileID: 11500000, guid: be184593463af2b49a4872a481254431, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1286671808
@@ -900,6 +900,7 @@ GameObject:
   - component: {fileID: 1568696675}
   - component: {fileID: 1568696674}
   - component: {fileID: 1568696673}
+  - component: {fileID: 1568696676}
   m_Layer: 5
   m_Name: tb_sair
   m_TagString: Untagged
@@ -965,7 +966,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1958875470}
+      - m_Target: {fileID: 1568696676}
         m_MethodName: Bt_sair
         m_Mode: 1
         m_Arguments:
@@ -1011,6 +1012,17 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1568696671}
+--- !u!114 &1568696676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1568696671}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be184593463af2b49a4872a481254431, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1581848764
 GameObject:
   m_ObjectHideFlags: 0

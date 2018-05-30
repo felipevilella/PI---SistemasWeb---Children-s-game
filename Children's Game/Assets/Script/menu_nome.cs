@@ -11,12 +11,13 @@ public class menu_nome : MonoBehaviour {
 	void Start () {
 		
 	}
-	
-	// Update is called once per frame
-	void Update () {
-        if ((Input.touchCount == 1) && (Input.GetTouch(0).phase == TouchPhase.Began))
-        {
+     // Update is called once per frame
+    void Update () {
+        
+    }
+    public void Bt_nome()
+    {
+      
             SceneManager.LoadScene("menu_fases");
-        }
     }
 }

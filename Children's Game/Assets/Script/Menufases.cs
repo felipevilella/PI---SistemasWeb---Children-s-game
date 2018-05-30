@@ -14,16 +14,31 @@ public class Menufases : MonoBehaviour
 
     }
 
-
-
-
     
     void Update()
     {
+        
+    }
+    public void fase1()
+    {
+   
+            SceneManager.LoadScene("sceneLevel01");
+    
 
-        if ((Input.touchCount == 1) && (Input.GetTouch(0).phase == TouchPhase.Began))
-        {
-            SceneManager.LoadScene("cubo");
-        }
+    }
+    public void fase2()
+    {
+            SceneManager.LoadScene("sceneLevel01");
+
+    }
+    public void fase3()
+    {
+            SceneManager.LoadScene("sceneLevel01");
+      
+    }
+    public void fase4()
+    {
+            SceneManager.LoadScene("sceneLevel01");
+        
     }
 }
