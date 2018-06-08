@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Cenas/nome_meu.unity
+- path: Assets/Cenas/tela_pause.unity
   isLoaded: 1
   isActive: 1
