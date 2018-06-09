@@ -2,7 +2,7 @@
 var tagName : String;
 var rayDistance : float = 100.0;
 var score : int = 0;
-var gameTime : int = 320;
+var gameTime : int = 20;
 
 //
 function Start()
@@ -44,7 +44,7 @@ function CountDown()
 		}
 		else
 		{
-			
+		Application.LoadLevel("menu_fases");
 		}
 	}
 }

@@ -154,9 +154,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tagName: enemy
-  rayDistance: 200
+  rayDistance: 100
   score: 0
-  gameTime: 320
+  gameTime: 20
 --- !u!1 &137473909
 GameObject:
   m_ObjectHideFlags: 0
@@ -457,7 +457,7 @@ MonoBehaviour:
   numberOfClicks: 2
   respawnTime: 1
   explosion: {fileID: 400000, guid: 625abdbd913c5f34fb85225fbc107f16, type: 2}
-  enemyPoint: 3
+  enemyPoint: 20
 --- !u!212 &774517195
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -669,7 +669,7 @@ MonoBehaviour:
   numberOfClicks: 2
   respawnTime: 1
   explosion: {fileID: 400000, guid: 625abdbd913c5f34fb85225fbc107f16, type: 2}
-  enemyPoint: 3
+  enemyPoint: 20
 --- !u!212 &1037675999
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -794,7 +794,7 @@ MonoBehaviour:
   numberOfClicks: 2
   respawnTime: 1
   explosion: {fileID: 400000, guid: 625abdbd913c5f34fb85225fbc107f16, type: 2}
-  enemyPoint: 3
+  enemyPoint: 20
 --- !u!212 &1112675871
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -846,7 +846,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1112675869}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.87, y: -2.54, z: 0}
+  m_LocalPosition: {x: 4.76, y: -1.38, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1580528441}
