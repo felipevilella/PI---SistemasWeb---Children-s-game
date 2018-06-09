@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - enemy
+  - Carrot
+  - Wheel
   layers:
   - Default
   - TransparentFX
@@ -40,4 +43,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Cenario
+    uniqueID: 350425321
+    locked: 0
+  - name: Slot Inventario
+    uniqueID: 3772374445
+    locked: 0
+  - name: Item Inventario
+    uniqueID: 1568225367
+    locked: 0
+  - name: Itens
+    uniqueID: 3795637781
     locked: 0
