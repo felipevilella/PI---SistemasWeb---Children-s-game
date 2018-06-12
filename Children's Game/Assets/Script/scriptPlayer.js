@@ -2,7 +2,7 @@
 var tagName : String;
 var rayDistance : float = 100.0;
 var score : int = 0;
-var gameTime : int = 20;
+var gameTime : int = 50;
 
 //
 function Start()
@@ -12,7 +12,7 @@ function Start()
 
 //
 function Update () {
-	if(Input.GetMouseButtonDown(0))		// 0: Left, 1: Right, 2: Middle
+	if(Input.GetMouseButtonDown(0))	
 	{
 		var hit : RaycastHit;
 		var ray : Ray = Camera.main.ScreenPointToRay(Input.mousePosition);
@@ -38,7 +38,7 @@ function CountDown()
 	if(--gameTime == 0)
 	{
 		CancelInvoke("CountDown");
-		if(score > 5)
+		if(score >5)
 		{
 			
 		}
@@ -51,7 +51,7 @@ function CountDown()
 
 function OnGUI()
 {
-	GUI.Label(Rect(10, 10, 100, 30), "Score: " + score);
-	GUI.Label(Rect(10, 40, 100, 30), "Time: " + gameTime);
+	GUI.Label(Rect(10, 10, 100, 30), "Pontos: " + score);
+	GUI.Label(Rect(10, 40, 100, 30), "Tempo: " + gameTime);
 }
 

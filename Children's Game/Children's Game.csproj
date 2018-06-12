@@ -294,7 +294,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\Flinger_id.cs" />
     <Compile Include="Assets\Script\funcao_inventario.cs" />
     <Compile Include="Assets\Script\menu_nome.cs" />
     <Compile Include="Assets\Script\menucontroler.cs" />

@@ -17,15 +17,14 @@ public class menucontroler : MonoBehaviour {
 	}
 	public void Bt_star(){
         
-            SceneManager.LoadScene("nome_meu");
+            SceneManager.LoadScene("menu_fases");
      
 
     }
     public void Bt_sobre(){
-		Debug.Log ("Mudou de cena");
+		
 	}
 	public void Bt_sair(){
-		Debug.Log ("Você fechou o jogo");
 		Application.Quit ();
 	}
 }
