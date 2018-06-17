@@ -31,9 +31,10 @@ function Update () {
 	}
 	
 	if ((Mathf.Abs(transform.position.y - target.position.y) < 0.05) &&  (Mathf.Abs(transform.position.x - target.position.x) < 0.05)) {
-			audioSource.Play();   		
+			//audioSource.Play();   		
 			numberOfClicks = 1;
 			Destroy(gameObject);
+
 	
 	}
 }

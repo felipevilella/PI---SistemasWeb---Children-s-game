@@ -295,6 +295,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\funcao_inventario.cs" />
+    <Compile Include="Assets\Script\game_over.cs" />
     <Compile Include="Assets\Script\menu_nome.cs" />
     <Compile Include="Assets\Script\menucontroler.cs" />
     <Compile Include="Assets\Script\Menufases.cs" />

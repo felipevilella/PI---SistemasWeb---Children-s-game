@@ -40,11 +40,17 @@ function CountDown()
 		CancelInvoke("CountDown");
 		if(score >5)
 		{
-			
+			Application.LoadLevel("concluido");
 		}
 		else
 		{
-		Application.LoadLevel("menu_fases");
+		Application.LoadLevel("game_over");
+		}
+	}
+	else{
+		if(score >5)
+		{
+			Application.LoadLevel("concluido");
 		}
 	}
 }

@@ -14,3 +14,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Cenas/sceneLevel01.unity
     guid: 3e6773a52e6c44242a60bca8d2561c9c
+  - enabled: 1
+    path: Assets/Cenas/game_over.unity
+    guid: 0e5a787b534d93e4180c54116d8e31a9
+  - enabled: 1
+    path: Assets/Cenas/concluido.unity
+    guid: ccd77781e87c60d468dec9d4550d747a
