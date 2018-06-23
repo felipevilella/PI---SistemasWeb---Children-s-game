@@ -10,7 +10,7 @@ EditorBuildSettings:
     guid: 2fbc11b35e248bf459e6aa9ba4f3e7ed
   - enabled: 1
     path: Assets/Cenas/menu_fases.unity
-    guid: fc6fcd71cc767a54aa97185e370483cb
+    guid: 24c094e2328f600499e58de11027105c
   - enabled: 1
     path: Assets/Cenas/sceneLevel01.unity
     guid: 3e6773a52e6c44242a60bca8d2561c9c

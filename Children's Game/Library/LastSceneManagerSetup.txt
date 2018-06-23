@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/pause.unity
-=======
-- path: Assets/Cenas/sceneLevel01.unity
->>>>>>> f0fa30b1a8c5df9eddd48292f985cad379579b31
+- path: Assets/Cenas/menu_fases.unity
   isLoaded: 1
   isActive: 1
