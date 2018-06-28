@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+ 
 
 public class Menufases : MonoBehaviour
 {
@@ -31,14 +32,25 @@ public class Menufases : MonoBehaviour
             SceneManager.LoadScene("sceneLevel01");
 
     }
-    public void fase3()
+    public void menu()
     {
-            SceneManager.LoadScene("sceneLevel01");
+            SceneManager.LoadScene("tela_inicial");
       
     }
-    public void fase4()
+    public void pause()
     {
-            SceneManager.LoadScene("sceneLevel01");
-        
+        Time.timeScale = 0;
+
+    }
+    public void resume()
+    {
+        Time.timeScale = 1;
+ 
+    }
+    public void euvouteeperar()
+    {
+        SceneManager.LoadScene("sceneLevel01");
+        Time.timeScale = 1;
+
     }
 }

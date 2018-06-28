@@ -22,9 +22,10 @@ public class menucontroler : MonoBehaviour {
 
     }
     public void Bt_sobre(){
-		
-	}
-	public void Bt_sair(){
+        SceneManager.LoadScene("menu_2");
+
+    }
+    public void Bt_sair(){
 		Application.Quit ();
 	}
 }
