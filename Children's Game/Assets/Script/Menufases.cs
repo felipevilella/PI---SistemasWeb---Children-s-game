@@ -29,7 +29,7 @@ public class Menufases : MonoBehaviour
     }
     public void fase2()
     {
-            SceneManager.LoadScene("sceneLevel01");
+            SceneManager.LoadScene("Level02");
 
     }
     public void menu()
